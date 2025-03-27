@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>ISS_Enterprise_back</RootNamespace>
+    <RootNamespace>ISS_Enterprise_back.Admin-service</RootNamespace>
     <UserSecretsId>ea2c68d8-507d-4501-ad51-90b63e03f191</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
@@ -20,6 +20,10 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ISS-Enterprise_back.Admin-service.csproj.user" />
   </ItemGroup>
 
 </Project>

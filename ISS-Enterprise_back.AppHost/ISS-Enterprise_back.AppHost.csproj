@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ISS-Enterprise_back\ISS-Enterprise_back.csproj" />
+    <ProjectReference Include="..\ISS-Enterprise_back\ISS-Enterprise_back.Admin-service.csproj" />
   </ItemGroup>
 
 </Project>

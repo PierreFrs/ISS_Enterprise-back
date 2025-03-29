@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "ISS-Enterprise_back.Admin-service": {
+    "ISS-Enterprise_back.AdminService": {
       "commandName": "Project"
     },
     "Container (Dockerfile)": {

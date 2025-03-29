@@ -1,6 +1,6 @@
 @ISS_Enterprise_back_HostAddress = http://localhost:5184
 
-GET {{ISS_Enterprise_back_HostAddress}}/weatherforecast/
+GET {{ISS_Enterprise_back_HostAddress}}
 Accept: application/json
 
 ###
